@@ -41,7 +41,7 @@ nav ul li {
   margin-left: 1rem;
 }
 
-.linkBtn {
+.link-btn {
   text-decoration: none;
   color: black;
   border: none;
@@ -117,14 +117,14 @@ input {
 }
 
 /* Add New Section */
-.addNew {
+.add-new {
   display: none;
   width: 40%;
   text-align: center;
   margin-top: 1rem;
 }
 
-.addNew h2 {
+.add-new h2 {
   font-size: 3rem;
   margin-bottom: 3rem;
   text-align: center;
@@ -139,7 +139,7 @@ input {
   padding: 1rem;
 }
 
-#addBtn {
+#add-btn {
   margin-left: auto;
   padding: 0.5rem;
 }
